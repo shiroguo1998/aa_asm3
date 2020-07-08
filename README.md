@@ -1,6 +1,4 @@
-# Algorithm Analysis - Assignment 3
-## Algorithms for Machine Learning
+# Coffee House online order classification
 
-Please make sure you have all the required packages install, 
-these can be found via install anaconda
+Please make sure you have all the required packages install
 
